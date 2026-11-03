@@ -1,0 +1,48 @@
+.header__main{
+    background: linear-gradient(#CEFFB8, #91F2CF 59%, #3CFFCE);
+    height: 100vh;
+    min-height: 500px;
+}
+
+.text_main {
+    height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title__main {
+    margin: 0;
+    font-size: 48px;
+    line-height: 72px;
+    font-weight: bolder;
+    font-family: "Manrope", sans-serif;
+    text-align: center;
+}
+
+.description__main {
+    color: #094C38;
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: "Manrope", sans-serif;
+    text-align: center;
+}
+
+.title__featured-packs {
+    width: 1031px;
+    margin:  40px auto 0;
+    font-family: "Inter";
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.pack__link {
+    width: 1000px;
+    margin: 0 auto;
+    display: block;
+    text-align: end;
+        font-family: "Inter";
+    color: #AEAEAE;
+    font-size: 14px;  
+}
